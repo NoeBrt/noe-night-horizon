@@ -10,6 +10,9 @@
 
 <img width="1780" height="1216" alt="image" src="https://github.com/user-attachments/assets/23660759-1877-4479-a1ba-b61ae07819c4" />
 
+
+<img width="1624" height="1060" alt="Screenshot 2025-12-04 at 23 11 34" src="https://github.com/user-attachments/assets/0720cd6d-fc2c-4abf-886f-1b7a8f26798d" />
+
 ## Fix terminal font color
 
 ### Before
@@ -41,6 +44,7 @@ https://github.com/enkia/tokyo-night-vscode-theme
 
 
 ###### Tokyo Tower icon used in theme icon made by Smashicons from www.flaticon.com. Color palettes in this README use www.placeholder.com.
+
 
 
 
