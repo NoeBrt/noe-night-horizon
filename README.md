@@ -8,16 +8,18 @@
   
 ## Screenshots
 
-[](https://github.com/user-attachments/assets/23660759-1877-4479-a1ba-b61ae07819c4)
-[](https://github.com/user-attachments/assets/0720cd6d-fc2c-4abf-886f-1b7a8f26798d)
+![](https://github.com/user-attachments/assets/23660759-1877-4479-a1ba-b61ae07819c4)
+![](https://github.com/user-attachments/assets/0720cd6d-fc2c-4abf-886f-1b7a8f26798d)
 
 ## Fix terminal font color
 
 ### Before
-<img width="237" height="48" alt="image" src="https://github.com/user-attachments/assets/c46b6e7c-e958-453a-bbc9-f99dfc031880" />
+
+![alt text](https://github.com/user-attachments/assets/c46b6e7c-e958-453a-bbc9-f99dfc031880)
 
 ### After
-<img width="303" height="68" alt="image" src="https://github.com/user-attachments/assets/178f7242-5ed9-494e-b20e-68524e2d05b1" />
+
+![alt text](https://github.com/user-attachments/assets/178f7242-5ed9-494e-b20e-68524e2d05b1)
 
 ## Change Font To Jetbrain Mono
 
@@ -42,6 +44,7 @@ https://github.com/enkia/tokyo-night-vscode-theme
 
 
 ###### Tokyo Tower icon used in theme icon made by Smashicons from www.flaticon.com. Color palettes in this README use www.placeholder.com.
+
 
 
 
